@@ -1,0 +1,8 @@
+.topLeft,
+.topRight {
+  flex: 1;
+  margin-left: 5px;
+}
+.topCenter {
+  flex: 6;
+}

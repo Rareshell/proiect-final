@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.posts {
+  flex: 1;
+}
+
+.sidebar {
+  width: 300px;
+}
